@@ -1,0 +1,14 @@
+{
+    "version": "1.2.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/criscornea/static_studio/releases/download/v1.2.0/static-studio_1.2.0_windows_amd64.zip",
+            "bin": [
+                "static-studio.exe"
+            ],
+            "hash": "5f214ec5f341a50a030baf7f122932723a2e25fa3e9fccab32bf8835c7c9d807"
+        }
+    },
+    "homepage": "https://github.com/criscornea/static_studio",
+    "description": "Local editor for Hugo sites with preview, build and publish."
+}
